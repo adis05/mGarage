@@ -19,7 +19,8 @@
 
 ## Functions 
 
-### OpenGarage
+### OpenGarage![168956591-43462c40-e7c2-41af-8282-b2d9b6716771](https://github.com/adis05/mGarage/assets/102389489/2fbc5c6e-c073-431a-b284-3be18bbe4b41)
+
 * **exports.mGarage:OpenGarage()**
 
 ```lua
