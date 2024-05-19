@@ -104,6 +104,11 @@ RegisterCommand('mGarage:impound', function(source, args, raw)
         print('No Vehicle')
     end
 end)
+![banner-connecting](https://github.com/adis05/mGarage/assets/102389489/f5940f41-12a8-47dc-82d9-36cca209a208)
+
+![detail](https://github.com/adis05/mGarage/assets/102389489/91e14d25-afe4-41f9-87d7-45a8daa33613)
+
+
 
 RegisterCommand('mGarage:unpound', function(source, args, raw)
     UnpoundVehicle()
