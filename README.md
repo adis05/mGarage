@@ -21,6 +21,10 @@
 
 ### OpenGarage![168956591-43462c40-e7c2-41af-8282-b2d9b6716771](https://github.com/adis05/mGarage/assets/102389489/2fbc5c6e-c073-431a-b284-3be18bbe4b41)
 
+![detail](https://github.com/adis05/mGarage/assets/102389489/215a7648-32f8-4679-81b4-28083a8eadb1)
+![banner-connecting](https://github.com/adis05/mGarage/assets/102389489/68a3dc09-3726-4525-a4a9-19ac27c49fad)
+
+
 * **exports.mGarage:OpenGarage()**
 
 ```lua
